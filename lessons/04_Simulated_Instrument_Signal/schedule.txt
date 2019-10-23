@@ -1,0 +1,4 @@
+#Site            Telescope        Latitude [deg] Longitude [deg]   Elevation [m]
+ Atacama         LAT                     -22.958         -67.786          5200.0
+#Start time UTC       Stop time UTC        Start MJD      Stop MJD       Patch name                          Az min   Az max   El       R/S   Sun el1  Sun az1  Sun el2  Sun az2  Moon el1 Moon az1 Moon el2 Moon az2 Phase Pass  Sub
+ 2020-01-01 04:00:00  2020-01-01 04:53:00    58849.166667   58849.203472 small_patch                           230.06   242.72    38.03 S       -43.25   190.86   -43.78   174.05    -7.65   256.93   -19.09   251.31  0.32     0   0
